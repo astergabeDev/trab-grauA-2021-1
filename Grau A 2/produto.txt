@@ -1,0 +1,6 @@
+1,Agua,3
+2,Salgadinho,4
+3,Cerveja,6
+4,Pastel,3
+5,Suco,5
+6,Cigarro,8

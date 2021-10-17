@@ -1,0 +1,51 @@
+/Users/gabrielfernandes/Repos/Grau A/obj/Debug/net5.0/Grau A.csproj.AssemblyReference.cache
+/Users/gabrielfernandes/Repos/Grau A/obj/Debug/net5.0/Grau A.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielfernandes/Repos/Grau A/obj/Debug/net5.0/Grau A.AssemblyInfoInputs.cache
+/Users/gabrielfernandes/Repos/Grau A/obj/Debug/net5.0/Grau A.AssemblyInfo.cs
+/Users/gabrielfernandes/Repos/Grau A/obj/Debug/net5.0/Grau A.csproj.CoreCompileInputs.cache
+E:/Downloads/Grau_A/Grau A/obj/Debug/net5.0/Grau A.csproj.AssemblyReference.cache
+E:/Downloads/Grau_A/Grau A/obj/Debug/net5.0/Grau A.GeneratedMSBuildEditorConfig.editorconfig
+E:/Downloads/Grau_A/Grau A/obj/Debug/net5.0/Grau A.AssemblyInfoInputs.cache
+E:/Downloads/Grau_A/Grau A/obj/Debug/net5.0/Grau A.AssemblyInfo.cs
+E:/Downloads/Grau_A/Grau A/obj/Debug/net5.0/Grau A.csproj.CoreCompileInputs.cache
+E:/Downloads/Grau_A/Grau A/bin/Debug/net5.0/Grau A.exe
+E:/Downloads/Grau_A/Grau A/bin/Debug/net5.0/Grau A.deps.json
+E:/Downloads/Grau_A/Grau A/bin/Debug/net5.0/Grau A.runtimeconfig.json
+E:/Downloads/Grau_A/Grau A/bin/Debug/net5.0/Grau A.runtimeconfig.dev.json
+E:/Downloads/Grau_A/Grau A/bin/Debug/net5.0/Grau A.dll
+E:/Downloads/Grau_A/Grau A/bin/Debug/net5.0/ref/Grau A.dll
+E:/Downloads/Grau_A/Grau A/bin/Debug/net5.0/Grau A.pdb
+E:/Downloads/Grau_A/Grau A/obj/Debug/net5.0/Grau A.dll
+E:/Downloads/Grau_A/Grau A/obj/Debug/net5.0/ref/Grau A.dll
+E:/Downloads/Grau_A/Grau A/obj/Debug/net5.0/Grau A.pdb
+E:/Downloads/Grau_A/Grau A/obj/Debug/net5.0/Grau A.genruntimeconfig.cache
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A/bin/Debug/net5.0/Grau A.deps.json
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A/bin/Debug/net5.0/Grau A.runtimeconfig.json
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A/bin/Debug/net5.0/Grau A.runtimeconfig.dev.json
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A/bin/Debug/net5.0/Grau A.dll
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A/bin/Debug/net5.0/ref/Grau A.dll
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A/bin/Debug/net5.0/Grau A.pdb
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A/obj/Debug/net5.0/Grau A.csproj.AssemblyReference.cache
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A/obj/Debug/net5.0/Grau A.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A/obj/Debug/net5.0/Grau A.AssemblyInfoInputs.cache
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A/obj/Debug/net5.0/Grau A.AssemblyInfo.cs
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A/obj/Debug/net5.0/Grau A.csproj.CoreCompileInputs.cache
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A/obj/Debug/net5.0/Grau A.dll
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A/obj/Debug/net5.0/ref/Grau A.dll
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A/obj/Debug/net5.0/Grau A.pdb
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A/obj/Debug/net5.0/Grau A.genruntimeconfig.cache
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A 2/bin/Debug/net5.0/Grau A.deps.json
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A 2/bin/Debug/net5.0/Grau A.runtimeconfig.json
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A 2/bin/Debug/net5.0/Grau A.runtimeconfig.dev.json
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A 2/bin/Debug/net5.0/Grau A.dll
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A 2/bin/Debug/net5.0/ref/Grau A.dll
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A 2/bin/Debug/net5.0/Grau A.pdb
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A 2/obj/Debug/net5.0/Grau A.csproj.AssemblyReference.cache
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A 2/obj/Debug/net5.0/Grau A.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A 2/obj/Debug/net5.0/Grau A.AssemblyInfoInputs.cache
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A 2/obj/Debug/net5.0/Grau A.AssemblyInfo.cs
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A 2/obj/Debug/net5.0/Grau A.csproj.CoreCompileInputs.cache
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A 2/obj/Debug/net5.0/Grau A.dll
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A 2/obj/Debug/net5.0/ref/Grau A.dll
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A 2/obj/Debug/net5.0/Grau A.pdb
+/Users/gabrielfernandes/Repos/Grau_A 2/Grau A 2/obj/Debug/net5.0/Grau A.genruntimeconfig.cache
